@@ -38,6 +38,7 @@ export default tseslint.config(
       "@typescript-eslint/no-unsafe-declaration-merging": "off",
       "@typescript-eslint/no-empty-object-type": "off",
       "@typescript-eslint/no-unnecessary-type-parameters": "off",
+      "@typescript-eslint/no-misused-promises": "off",
       "@typescript-eslint/no-misused-spread": "off"
     }
   },
